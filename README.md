@@ -1,6 +1,6 @@
 # ✨ Ebook Writer – AI-Powered Story & Ebook Generator
 
-![App](assets/assets/ebwr0.png)
+![App](assets/ebwr0.png)
 
 ## 🌟 Introduction
 
@@ -28,10 +28,10 @@ Finally, you can export your creation to **DOCX** or **PDF** — ready for publi
 ![Hero Section](assets/ebwr1.png)
 
 ### Generated Outline
-![Outline Screenshot Placeholder](assets/outline.png)
+![Outline Screenshot Placeholder](assets/ebwr2.png)
 
 ### Scene & Illustration
-![Scene Screenshot Placeholder](assets/scene.png)
+![Scene Screenshot Placeholder](assets/ebwr3.png)
 
 ---
 
